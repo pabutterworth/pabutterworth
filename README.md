@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pabutterworth
-- 👀 I’m interested in seamless and magicalsmart home automation, general technology
+- 👀 I’m interested in seamless and magical smart home automation, general technology. I'm a payments geek during the day
 - 🌱 I’m used to be a 'C' developer, many years ago
 
 <!---
